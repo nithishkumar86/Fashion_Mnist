@@ -1,0 +1,7 @@
+tensorflow
+numpy
+streamlit
+flask
+fastapi
+uvicorn
+ipykernel
