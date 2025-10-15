@@ -2,6 +2,21 @@
 
 This project demonstrates a **Deep Learning** workflow using **Convolutional Neural Networks (CNNs)** to classify images from the **Fashion MNIST** dataset.  
 It also includes a **FastAPI backend** for model inference and an optional **Streamlit frontend** for user interaction.
+### first clone the repository 
+```python
+
+```
+### create virtual environment and activate it 
+```
+python -m venv my venv
+
+venv\Scripts\activate 
+```
+
+### install Dependencies 
+```python
+pip install -r requirements.txt
+```
 
 ---
 
@@ -185,3 +200,4 @@ You can extend it by:
 - Adding more layers or tuning hyperparameters  
 - Deploying to the cloud (AWS, Render, etc.)  
 - Improving UI with image previews and confidence scores  
+
