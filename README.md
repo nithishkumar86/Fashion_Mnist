@@ -4,7 +4,7 @@ This project demonstrates a **Deep Learning** workflow using **Convolutional Neu
 It also includes a **FastAPI backend** for model inference and an optional **Streamlit frontend** for user interaction.
 ### first clone the repository 
 ```python
-
+    https://github.com/nithishkumar86/Fashion_Mnist.git
 ```
 ### create virtual environment and activate it 
 ```
@@ -200,4 +200,5 @@ You can extend it by:
 - Adding more layers or tuning hyperparameters  
 - Deploying to the cloud (AWS, Render, etc.)  
 - Improving UI with image previews and confidence scores  
+
 
